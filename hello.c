@@ -1,5 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  print("Hello World....!!!")
+  printf("Hello World....!!!")
+}
+  printf("\nThis is the basuc C program");
 }
